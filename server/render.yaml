@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: alpha-helper-custom
+    name: alpha-helper-server
     env: node
     plan: free
     buildCommand: npm install

@@ -1,5 +1,5 @@
 {
-  "name": "alpha-helper-custom-server",
+  "name": "alpha-helper-server",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
